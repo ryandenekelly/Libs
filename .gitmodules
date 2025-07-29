@@ -7,3 +7,4 @@
 [submodule "Menu"]
 	path = Menu
 	url = https://github.com/ryandenekelly/Menu.git
+	branch = main
